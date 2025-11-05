@@ -1,0 +1,27 @@
+body{ 
+   background-color:#ffedd5;
+   text-align: left;
+   font-size: 24px;
+   font-family: 'Times New Roman', Times, serif;
+}
+  h1, h2{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    color: #ffd1f4;
+ }
+
+.imagem {
+   width: 100%;
+   max-width: 400px;
+   height: auto;
+   object-fit: cover;
+   border-radius: 15px;
+   margin: 10px;
+   margin-right: 20px;
+ }
+
+blockquote {
+   font-style: italic;
+   color: #ffd5b2;
+   margin-left: 20px;
+}
